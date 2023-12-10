@@ -1,0 +1,1 @@
+{"python": "python3 main.py", "test": "clipboard.copy(data[key])"}
